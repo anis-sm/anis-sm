@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake Contribution Grid
         uses: Platane/snk@v3
@@ -21,7 +21,7 @@ jobs:
             github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Generated Snake to GitHub
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4  # Updated from v3 to v4
         with:
           name: snake-artifact
           path: github-contribution-grid-snake.svg
@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-          git add .
+          git add github-contribution-grid-snake.svg
           git commit -m "Updated GitHub contributions snake animation" || echo "No changes to commit"
-          git push
+          git push origin main
