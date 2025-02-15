@@ -63,8 +63,7 @@
 ---
 
 ### 🐍 **GitHub Contributions**
-![Snake animation](https://raw.githubusercontent.com/anis-sm/anis-sm/output/snake.svg)
-
+<img src="https://raw.githubusercontent.com/anis-sm/anis-sm/output/snake.svg" alt="Snake animation" />
 ---
 
 ### 📊 **GitHub Stats**
