@@ -62,9 +62,12 @@
 
 ---
 
-### 🐍 **GitHub Contributions**
-<img src="https://raw.githubusercontent.com/anis-sm/anis-sm/output/snake.svg" alt="Snake animation" />
----
+### 🐍 **GitHub Contributions **
+
+<div align="center">
+  <img src="https://github.com/anis-sm/anis-sm/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
+
 
 ### 📊 **GitHub Stats**
 <div align="center">
