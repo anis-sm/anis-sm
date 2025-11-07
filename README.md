@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <div style="flex: 1; text-align: left;">
     <h2>👋 Hello, I'm <strong>SMIRA Anis</strong></h2>
-    <p>🎓 IATI Student | 💡 Learning Deep Learning & Web Development</p>
+    <p>🎓 IATI Student Masters Student| 💡 Learning Deep Learning & Web Development</p>
     <p>🚀 Passionate about AI, Full-Stack Development, and Blockchain</p>
     <p>💻 Working with JavaScript, React, Solidity, Python, and more</p>
     <p>🌱 Always exploring new technologies and improving my skills</p>
